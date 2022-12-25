@@ -1,7 +1,7 @@
 # 👋 Hi there
 
 <div>
-  <img width="400px" align="right" src="https://media1.tenor.com/images/edfa46f61628588aa4b69de02d2bd311/tenor.gif?itemid=11860164" alt="side Image" />
+  <img width="360px" align="right" src="https://media1.tenor.com/images/edfa46f61628588aa4b69de02d2bd311/tenor.gif?itemid=11860164" alt="side Image" />
 </div>
 
 ### A Few Quick Facts
