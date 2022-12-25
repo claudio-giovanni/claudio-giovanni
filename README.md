@@ -11,7 +11,7 @@
 - 👨‍💻 Most of my projects are available on [GitHub](https://github.com/claudio-giovanni).
 - 📝 I am often active on [LinkedIn](https://www.linkedin.com/in/claudio-o-6608bb13a/).
 - 📫 Ping me about **Backend**, **Automation**, and **CI/CD**
-- 📙 Check out my [resume](https://claudio-giovanni.github.io).
+- 📙 Check out my [resume](https://claudiogiovanni.com).
 - 💬 Remember: If *Internet Explorer* is brave enough to ask to be your default browser,
   you are brave enough to ask that girl out.
 
