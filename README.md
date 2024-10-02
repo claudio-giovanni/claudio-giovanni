@@ -6,13 +6,13 @@
 
 ### A Few Quick Facts
 
-- 🔭 I’m currently working on understanding [everything](https://imgs.xkcd.com/comics/major_in_the_universe.png).
-- 🧐 Studying for the Linguistic Proficiency Exam
+- 🔭 Currently working on [myself](https://imgs.xkcd.com/comics/major_in_the_universe.png).
 - 👨‍💻 Most of my projects are available on [GitHub](https://github.com/claudio-giovanni).
+- 🏋️‍♂️ Training for the next [Hyrox](https://hyrox.com/) event.
 - 📝 I am often active on [LinkedIn](https://www.linkedin.com/in/claudio-o-6608bb13a/).
-- 📫 Ping me about **Backend**, **Automation**, and **CI/CD**
 - 📙 Check out my [resume](https://claudiogiovanni.com).
+- 📫 Ping me about **Engineering**, **Automation**, and **CI/CD**.
 - 💬 Remember: If *Internet Explorer* is brave enough to ask to be your default browser,
-  you are brave enough to ask that girl out.
+  you are brave enough to pursue the impossible.
 
 ![](contributions.svg)
